@@ -1,0 +1,298 @@
+[
+  {
+    "level": "11",
+    "weapon": "+50 Attack Rating, +1 Light Radius",
+    "armor": "+15 Defense, +1 Light Radius",
+    "shield": "+15 Defense, +1 Light Radius",
+    "drops": "Normal Act 2+",
+    "runewords": "Breath of the Dying, Death, Fortitude, Honor, Malice, Steel, Unbending Will, Voice of Reason, and Wind."
+  },
+  {
+    "name": "Eld",
+    "level": "11",
+    "weapon": "+75% Damage vs Undead, +50 Attack Rating vs Undead",
+    "armor": "15% Slower Stamina Drain",
+    "shield": "7% Increased Chance of Blocking",
+    "drops": "Normal Act 2+",
+    "runewords": "Breath of the Dying, Faith, Hustle, Passion, Principle, Silence, Unbending Will, Voice of Reason, and Wisdom."
+  },
+  {
+    "name": "Tir",
+    "level": "13",
+    "weapon": "+2 Mana After Each Kill",
+    "armor": "+2 Mana After Each Kill",
+    "shield": "+2 Mana After Each Kill",
+    "drops": "Normal Act 2+",
+    "runewords": "Breast, Crescent Moon, Edge, Grief, Harmony, Honor, Insight, Leaf, Nadir, Prudence, Silence, Steel, Strength, and Wealth."
+  },
+  {
+    "name": "Nef",
+    "level": "13",
+    "weapon": "Knockback",
+    "armor": "+30 Defense vs Missile",
+    "shield": "+30 Defense vs Missile",
+    "drops": "Normal Act 2+",
+    "runewords": "Black, Flickering Flame, Melody, Myth, Nadir, Obsession, Radiance, and Smoke."
+  },
+  {
+    "name": "Eth",
+    "level": "15",
+    "weapon": "-25% Target Defense",
+    "armor": "Regenerate Mana 15%",
+    "shield": "Regenerate Mana 15%",
+    "drops": "Normal Act 3+",
+    "runewords": "Bramble, Breath of the Dying, Fury, Grief, Holy Thunder, Malice, Memory, Obedience, Rhyme, Splendor, Stealth, and Zephyr."
+  },
+  {
+    "name": "Ith",
+    "level": "15",
+    "weapon": "+9 Maximum Damage",
+    "armor": "15% Damage Taken Goes to Mana",
+    "shield": "15% Damage Taken Goes to Mana",
+    "drops": "Normal Act 3+",
+    "runewords": "Enigma, Harmony, Honor, Malice, Mist, Radiance, Rain, Unbending Will, and Wisdom."
+  },
+  {
+    "name": "Tal",
+    "level": "17",
+    "weapon": "75 Poison Damage Over 5 Seconds",
+    "armor": "Poison Resist +30%",
+    "shield": "Poison Resist +35%",
+    "drops": "Normal Act 3+",
+    "runewords": "Ancients Pledge, Cure, Edge, Holy Thunder, Insight, Pattern, Spirit, Stealth, and Venom."
+  },
+  {
+    "name": "Ral",
+    "level": "19",
+    "weapon": "5-30 Fire Damage",
+    "armor": "Fire Resist +30%",
+    "shield": "Fire Resist +35%",
+    "drops": "Normal Act 3+",
+    "runewords": "Ancients Pledge, Bramble, Call to Arms, Enlightenment, Grief, Holy Thunder, Insight, Kings Grace, Leaf, Principle, and Temper."
+  },
+  {
+    "name": "Ort",
+    "level": "21",
+    "weapon": "1-50 Lightning Damage",
+    "armor": "Lightning Resist +30%",
+    "shield": "Lightning Resist +35%",
+    "drops": "Normal Act 4+",
+    "runewords": "Ancients Pledge, Death, Famine, Ground, Holy Thunder, Lore, Passion, Pattern, Rain, Spirit, and Zephyr."
+  },
+  {
+    "name": "Thul",
+    "level": "23",
+    "weapon": "3-14 Cold Damage (3s)",
+    "armor": "Cold Resist +30%",
+    "shield": "Cold Resist +35%",
+    "drops": "Normal Act 4+",
+    "runewords": "Black, Duress, Heart of the Oak, Hearth, Kings Grace, Mist, Obedience, Pattern, Peace, Spirit, and Treachery."
+  },
+  {
+    "name": "Amn",
+    "level": "25",
+    "weapon": "7% Life Stolen per Hit",
+    "armor": "Attack Takes Damage of 14",
+    "shield": "Attack Takes Damage of 14",
+    "drops": "Normal Act 4+",
+    "runewords": "Call to Arms, Edge, Eternity, Hand of Justice, Honor, Ice, Kings Grace, Lawbringer, Mosaic, Myth, Peace, Spirit, and Strength."
+  },
+  {
+    "name": "Sol",
+    "level": "27",
+    "weapon": "+9 Minimum Damage",
+    "armor": "Damage Reduced by 7",
+    "shield": "Damage Reduced by 7",
+    "drops": "Normal Act 4+",
+    "runewords": "Bone, Bulwark, Dragon, Enlightenment, Eternity, Fortitude, Harmony, Honor, Insight, Lore, Memory, and Radiance."
+  },
+  {
+    "name": "Shael",
+    "level": "29",
+    "weapon": "+29% Increased Attack Speed",
+    "armor": "+20% Faster Hit Recovery",
+    "shield": "+20% Faster Block Rate",
+    "drops": "Normal Act 5+",
+    "runewords": "Bulwark, Crescent Moon, Cure, Duress, Ground, Hearth, Hustle, Ice, Melody, Mist, Oath, Peace, Plague, Rhyme, Stone, Temper, and Treachery."
+  },
+  {
+    "name": "Dol",
+    "level": "31",
+    "weapon": "Hit Causes Monster to Flee 25%",
+    "armor": "Replenish Life +7",
+    "shield": "Replenish Life +7",
+    "drops": "Normal Act 5+",
+    "runewords": "Chains of Honor, Exile, Fortitude, Passion, Silence, Venom, and White."
+  },
+  {
+    "name": "Hel",
+    "level": "0",
+    "weapon": "Requirements -20%",
+    "armor": "Requirements -15%",
+    "shield": "Requirements -15%",
+    "drops": "Nightmare Act 1+",
+    "runewords": "Breath of the Dying, Death, Doom, Lionheart, Myth, Obedience, Rift, Silence, and Unbending Will."
+  },
+  {
+    "name": "Io",
+    "level": "35",
+    "weapon": "+10 Vitality",
+    "armor": "+10 Vitality",
+    "shield": "+10 Vitality",
+    "drops": "Nightmare Act 1+",
+    "runewords": "Black, Bulwark, Cure, Delirium, Dream, Ground, Hearth, Metamorphosis, Memory, Obsession, Pride, Temper, Unbending Will, and White."
+  },
+  {
+    "name": "Lum",
+    "level": "37",
+    "weapon": "+10 Energy",
+    "armor": "+10 Energy",
+    "shield": "+10 Energy",
+    "drops": "Nightmare Act 2+",
+    "runewords": "Beast, Lionheart, Memory, Oath, Obsession, Smoke, Splendor, Stone, and Wrath."
+  },
+  {
+    "name": "Ko",
+    "level": "39",
+    "weapon": "+10 Dexterity",
+    "armor": "+10 Dexterity",
+    "shield": "+10 Dexterity",
+    "drops": "Nightmare Act 2+",
+    "runewords": "Destruction, Harmony, Heart of the Oak, Hustle, Lawbringer, Melody, Obedience, Rift, Sanctuary, Voice of Reason, and Wealth."
+  },
+  {
+    "name": "Fal",
+    "level": "41",
+    "weapon": "+10 Strength",
+    "armor": "+10 Strength",
+    "shield": "+10 Strength",
+    "drops": "Nightmare Act 3+",
+    "runewords": "Chaos, Famine, Gloom, Kingslayer, Lionheart, Metamorphosis, Obedience, and Unbending Will."
+  },
+  {
+    "name": "Lem",
+    "level": "43",
+    "weapon": "+75% Extra Gold from Monsters",
+    "armor": "+50% Extra Gold from Monsters",
+    "shield": "+50% Extra Gold from Monsters",
+    "drops": "Nightmare Act 3+",
+    "runewords": "Delirium, Faith, Lawbringer, Obsession, Passion, Rift, Treachery, Voice of Reason, and Wealth."
+  },
+  {
+    "name": "Pul",
+    "level": "45",
+    "weapon": "+75% Damage vs Demons, +100 Attack Rating vs Demons",
+    "armor": "+30% Enhanced Defense",
+    "shield": "+30% Enhanced Defense",
+    "drops": "Nightmare Act 4+",
+    "runewords": "Dream, Enlightenment, Flickering Flame, Gloom, Heart of the Oak, Oath, Stone, Wisdom, and Wrath."
+  },
+  {
+    "name": "Um",
+    "level": "47",
+    "weapon": "+25% Chance of Open Wounds",
+    "armor": "All Resistances +15",
+    "shield": "All Resistances +15",
+    "drops": "Nightmare Act 4+",
+    "runewords": "Beast, Bone, Chains of Honor, Chaos, Crescent Moon, Doom, Duress, Gloom, Kingslayer, Plague, and Stone."
+  },
+  {
+    "name": "Mal",
+    "level": "49",
+    "weapon": "Prevent Monster Heal",
+    "armor": "Magic Damage Reduced by 7",
+    "shield": "Magic Damage Reduced by 7",
+    "drops": "Nightmare Act 5+",
+    "runewords": "Beast, Brand, Call to Arms, Grief, Infinity, Kingslayer, Last Wish, Mosaic, Oath, Prudence, Rain, Sanctuary, Venom, and Wrath."
+  },
+  {
+    "name": "Ist",
+    "level": "51",
+    "weapon": "+30% Better Chance of Magic Items",
+    "armor": "+25% Better Chance of Magic Items",
+    "shield": "+25% Better Chance of Magic Items",
+    "drops": "Nightmare Act 5+",
+    "runewords": "Call to Arms, Chains of Honor, Delirium, Eternity, Exile, Infinity, Obsession, and Silence."
+  },
+  {
+    "name": "Gul",
+    "level": "53",
+    "weapon": "+20% Bonus to Attack Rating",
+    "armor": "+5% Maximum Poison Resist",
+    "shield": "+5% Maximum Poison Resist",
+    "drops": "Hell Act 1+",
+    "runewords": "Brand, Death, Fury, Kingslayer, Mist, Mosaic, Principle, and Rift."
+  },
+  {
+    "name": "Vex",
+    "level": "55",
+    "weapon": "+7% Mana Stolen per Hit",
+    "armor": "+5% Maximum Fire Resist",
+    "shield": "+5% Maximum Fire Resist",
+    "drops": "Hell Act 1+",
+    "runewords": "Breath of the Dying, Death, Destruction, Exile, Flickering Flame, Heart of the Oak, Phoenix, and Silence."
+  },
+  {
+    "name": "Ohm",
+    "level": "57",
+    "weapon": "+50% Enhanced Damage",
+    "armor": "+5% Maximum Cold Resist",
+    "shield": "+5% Maximum Cold Resist",
+    "drops": "Hell Act 2+",
+    "runewords": "Bramble, Call to Arms, Chaos, Doom, Exile, Faith, and Famine."
+  },
+  {
+    "name": "Lo",
+    "level": "59",
+    "weapon": "+20% Deadly Strike",
+    "armor": "+5% Maximum Lightning Resist",
+    "shield": "+5% Maximum Lightning Resist",
+    "drops": "Hell Act 2+",
+    "runewords": "Brand, Destruction, Doom, Dragon, Fortitude, Grief, Hand of Justice, Ice, Phoenix, and Pride."
+  },
+  {
+    "name": "Sur",
+    "level": "61",
+    "weapon": "Hit Blinds Target +1",
+    "armor": "Increase Maximum Mana 5%",
+    "shield": "+50 Mana",
+    "drops": "Hell Act 3+",
+    "runewords": "Bramble, Dragon, Eternity, Hand of Justice, Last Wish, Pride, and Wind."
+  },
+  {
+    "name": "Ber",
+    "level": "63",
+    "weapon": "+20% Chance of Crushing Blow",
+    "armor": "Damage Reduced by 8%",
+    "shield": "Damage Reduced by 8%",
+    "drops": "Hell Act 3+",
+    "runewords": "Beasts, Chains of Honor, Destruction, Enigma, Eternity, Infinity, Last Wish, and Wrath."
+  },
+  {
+    "name": "Jah",
+    "level": "65",
+    "weapon": "Ignore Target's Defense",
+    "armor": "Increase Maximum Life 5%",
+    "shield": "+50 Life",
+    "drops": "Hell Act 4+",
+    "runewords": "Brand, Destruction, Dream, Enigma, Faith, Famine, Fury, Ice, Last Wish, and Phoenix."
+  },
+  {
+    "name": "Cham",
+    "level": "67",
+    "weapon": "Freezes Target +3",
+    "armor": "Cannot be Frozen",
+    "shield": "Cannot be Frozen",
+    "drops": "Hell Act 4+",
+    "runewords": "Doom, Hand of Justice, Metamorphosis, Mist, Plague, and Pride."
+  },
+  {
+    "name": "Zod",
+    "level": "69",
+    "weapon": "Indestructible",
+    "armor": "Indestructible",
+    "shield": "Indestructible",
+    "drops": "Hell Act 5+",
+    "runewords": "Breath of the Dying, and Obsession."
+  }
+]

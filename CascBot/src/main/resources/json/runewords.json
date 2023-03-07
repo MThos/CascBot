@@ -1,0 +1,1356 @@
+[
+  {
+    "name": "Ancients Pledge",
+    "level": "21",
+    "item": "Shield",
+    "ladder": "No",
+    "runes": [
+      "Ral",
+      "Ort",
+      "Tal"
+    ],
+    "properties": [
+      "+50% Enhanced Defense",
+      "+43% Cold Resist",
+      "+48% Fire Resist",
+      "+48% Lightning Resist",
+      "+48% Poison Resist",
+      "+10% Damage Taken Goes to Mana"
+    ]
+  },
+  {
+    "name": "Beast",
+    "level": "63",
+    "item": "Axe/Hammer/Sceptre",
+    "ladder": "No",
+    "runes": [
+      "Ber",
+      "Tir",
+      "Um",
+      "Mal",
+      "Lum"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Black",
+    "level": "35",
+    "item": "Club/Hammer/Mace",
+    "ladder": "No",
+    "runes": [
+      "Thul",
+      "Io",
+      "Nef"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Bone",
+    "level": "47",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Sol",
+      "Um",
+      "Um"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Bramble",
+    "level": "61",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Ral",
+      "Ohm",
+      "Sur",
+      "Eth"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Brand",
+    "level": "65",
+    "item": "Missile",
+    "ladder": "Yes",
+    "runes": [
+      "Jah",
+      "Lo",
+      "Mal",
+      "Gul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Bulwark",
+    "level": "35",
+    "item": "Helm",
+    "ladder": "Yes",
+    "runes": [
+      "Shael",
+      "Io",
+      "Sol"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Breath of the Dying",
+    "level": "69",
+    "item": "Weapon",
+    "ladder": "No",
+    "runes": [
+      "Vex",
+      "Hel",
+      "El",
+      "Eld",
+      "Zod",
+      "Eth"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Call to Arms",
+    "level": "57",
+    "item": "Weapon",
+    "ladder": "No",
+    "runes": [
+      "Amn",
+      "Ral",
+      "Mal",
+      "Ist",
+      "Ohm"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Chains of Honor",
+    "level": "63",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Dol",
+      "Um",
+      "Ber",
+      "Ist"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Chaos",
+    "level": "57",
+    "item": "Claw",
+    "ladder": "No",
+    "runes": [
+      "Fal",
+      "Ohm",
+      "Um"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Crescent Moon",
+    "level": "47",
+    "item": "Axe/Polearm/Sword",
+    "ladder": "No",
+    "runes": [
+      "Shael",
+      "Um",
+      "Tir"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Cure",
+    "level": "35",
+    "item": "Helm",
+    "ladder": "Yes",
+    "runes": [
+      "Shael",
+      "Io",
+      "Tal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Death",
+    "level": "55",
+    "item": "Axe/Sword",
+    "ladder": "Yes",
+    "runes": [
+      "Hel",
+      "El",
+      "Vex",
+      "Ort",
+      "Gul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Delirium",
+    "level": "51",
+    "item": "Helm",
+    "ladder": "No",
+    "runes": [
+      "Lem",
+      "Ist",
+      "Io"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Destruction",
+    "level": "65",
+    "item": "Polearm/Sword",
+    "ladder": "Yes",
+    "runes": [
+      "Vex",
+      "Lo",
+      "Ber",
+      "Jah",
+      "Ko"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Doom",
+    "level": "67",
+    "item": "Axe/Hammer/Polearm",
+    "ladder": "No",
+    "runes": [
+      "Hel",
+      "Ohm",
+      "Um",
+      "Lo",
+      "Cham"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Dragon",
+    "level": "61",
+    "item": "Armor/Shield",
+    "ladder": "Yes",
+    "runes": [
+      "Sur",
+      "Lo",
+      "Sol"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Dream",
+    "level": "65",
+    "item": "Helm/Shield",
+    "ladder": "Yes",
+    "runes": [
+      "Io",
+      "Jah",
+      "Pul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Duress",
+    "level": "47",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Shael",
+      "Um",
+      "Thul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Edge",
+    "level": "25",
+    "item": "Missile",
+    "ladder": "Yes",
+    "runes": [
+      "Tir",
+      "Tal",
+      "Amn"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Enigma",
+    "level": "65",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Jah",
+      "Ith",
+      "Ber"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Enlightenment",
+    "level": "45",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Pul",
+      "Ral",
+      "Sol"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Eternity",
+    "level": "63",
+    "item": "Melee",
+    "ladder": "No",
+    "runes": [
+      "Amn",
+      "Ber",
+      "Ist",
+      "Sol",
+      "Sur"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Exile",
+    "level": "57",
+    "item": "Shield (Paladin)",
+    "ladder": "No",
+    "runes": [
+      "Vex",
+      "Ohm",
+      "Ist",
+      "Dol"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Faith",
+    "level": "65",
+    "item": "Missile",
+    "ladder": "Yes",
+    "runes": [
+      "Ohm",
+      "Jah",
+      "Lem",
+      "Eld"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Famine",
+    "level": "65",
+    "item": "Axe/Hammer",
+    "ladder": "No",
+    "runes": [
+      "Fal",
+      "Ohm",
+      "Ort",
+      "Jah"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Flickering Flame",
+    "level": "55",
+    "item": "Helm",
+    "ladder": "Yes",
+    "runes": [
+      "Nef",
+      "Pul",
+      "Vex"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Fortitude",
+    "level": "59",
+    "item": "Armor/Weapon",
+    "ladder": "Yes",
+    "runes": [
+      "El",
+      "Sol",
+      "Dol",
+      "Lo"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Fury",
+    "level": "65",
+    "item": "Melee",
+    "ladder": "No",
+    "runes": [
+      "Jah",
+      "Gul",
+      "Eth"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Gloom",
+    "level": "47",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Fal",
+      "Um",
+      "Pul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Grief",
+    "level": "59",
+    "item": "Axe/Sword",
+    "ladder": "Yes",
+    "runes": [
+      "Eth",
+      "Tir",
+      "Lo",
+      "Mal",
+      "Ral"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Ground",
+    "level": "35",
+    "item": "Helm",
+    "ladder": "Yes",
+    "runes": [
+      "Shael",
+      "Io",
+      "Ort"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Hand of Justice",
+    "level": "67",
+    "item": "Weapon",
+    "ladder": "No",
+    "runes": [
+      "Sur",
+      "Cham",
+      "Amn",
+      "Lo"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Harmony",
+    "level": "39",
+    "item": "Missile",
+    "ladder": "Yes",
+    "runes": [
+      "Tir",
+      "Ith",
+      "Sol",
+      "Ko"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Heart of the Oak",
+    "level": "55",
+    "item": "Mace/Staff",
+    "ladder": "No",
+    "runes": [
+      "Ko",
+      "Vex",
+      "Pul",
+      "Thul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Hearth",
+    "level": "35",
+    "item": "Helm",
+    "ladder": "Yes",
+    "runes": [
+      "Shael",
+      "Io",
+      "Thul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Holy Thunder",
+    "level": "24",
+    "item": "Scepter",
+    "ladder": "No",
+    "runes": [
+      "Eth",
+      "Ral",
+      "Ort",
+      "Tal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Honor",
+    "level": "27",
+    "item": "Melee",
+    "ladder": "No",
+    "runes": [
+      "Amn",
+      "El",
+      "Ith",
+      "Tir",
+      "Sol"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Hustle",
+    "level": "39",
+    "item": "Armor/Weapon",
+    "ladder": "Yes",
+    "runes": [
+      "Shael",
+      "Ko",
+      "Eld"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Ice",
+    "level": "65",
+    "item": "Missile",
+    "ladder": "Yes",
+    "runes": [
+      "Amn",
+      "Shael",
+      "Jah",
+      "Lo"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Infinity",
+    "level": "63",
+    "item": "Polearm/Spears",
+    "ladder": "Yes",
+    "runes": [
+      "Ber",
+      "Mal",
+      "Ber",
+      "Ist"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Insight",
+    "level": "27",
+    "item": "Polearm/Staff/Bow",
+    "ladder": "Yes",
+    "runes": [
+      "Ral",
+      "Tir",
+      "Tal",
+      "Sol"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Kings Grace",
+    "level": "25",
+    "item": "Scepter/Sword",
+    "ladder": "No",
+    "runes": [
+      "Amn",
+      "Ral",
+      "Thul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Kingslayer",
+    "level": "53",
+    "item": "Axe/Sword",
+    "ladder": "No",
+    "runes": [
+      "Mal",
+      "Um",
+      "Gul",
+      "Fal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Last Wish",
+    "level": "65",
+    "item": "Axe/Hammer/Sword",
+    "ladder": "Yes",
+    "runes": [
+      "Jah",
+      "Mal",
+      "Jah",
+      "Sur",
+      "Jah",
+      "Ber"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Lawbringer",
+    "level": "43",
+    "item": "Hammer/Scepter/Sword",
+    "ladder": "Yes",
+    "runes": [
+      "Amn",
+      "Lem",
+      "Ko"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Leaf",
+    "level": "19",
+    "item": "Staff",
+    "ladder": "No",
+    "runes": [
+      "Tir",
+      "Ral"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Lionheart",
+    "level": "41",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Hel",
+      "Lum",
+      "Fal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Lore",
+    "level": "27",
+    "item": "Helm",
+    "ladder": "No",
+    "runes": [
+      "Ort",
+      "Sol"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Malice",
+    "level": "15",
+    "item": "Melee",
+    "ladder": "No",
+    "runes": [
+      "Ith",
+      "El",
+      "Eth"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Melody",
+    "level": "39",
+    "item": "Missile",
+    "ladder": "No",
+    "runes": [
+      "Shael",
+      "Ko",
+      "Nef"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Memory",
+    "level": "37",
+    "item": "Staff",
+    "ladder": "No",
+    "runes": [
+      "Lum",
+      "Io",
+      "Sol",
+      "Eth"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Mist",
+    "level": "67",
+    "item": "Bow/Crossbow",
+    "ladder": "Yes",
+    "runes": [
+      "Cham",
+      "Shael",
+      "Gul",
+      "Thul",
+      "Ith"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Metamorphosis",
+    "level": "67",
+    "item": "Helm",
+    "ladder": "Yes",
+    "runes": [
+      "Io",
+      "Cham",
+      "Fal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Mosaic",
+    "level": "53",
+    "item": "Claw",
+    "ladder": "Yes",
+    "runes": [
+      "Mal",
+      "Gul",
+      "Amn"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Myth",
+    "level": "25",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Hel",
+      "Amn",
+      "Nef"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Nadir",
+    "level": "13",
+    "item": "Helm",
+    "ladder": "No",
+    "runes": [
+      "Nef",
+      "Tir"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Oath",
+    "level": "49",
+    "item": "Axe/Mace/Sword",
+    "ladder": "Yes",
+    "runes": [
+      "Shael",
+      "Pul",
+      "Mal",
+      "Lum"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Obedience",
+    "level": "41",
+    "item": "Polearm",
+    "ladder": "Yes",
+    "runes": [
+      "Hel",
+      "Ko",
+      "Thul",
+      "Eth",
+      "Fal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Obsession",
+    "level": "69",
+    "item": "Staff",
+    "ladder": "Yes",
+    "runes": [
+      "Zod",
+      "Ist",
+      "Lem",
+      "Lum",
+      "Io",
+      "Nef"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Passion",
+    "level": "43",
+    "item": "Weapon",
+    "ladder": "No",
+    "runes": [
+      "Dol",
+      "Ort",
+      "Eld",
+      "Lem"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Pattern",
+    "level": "23",
+    "item": "Claws",
+    "ladder": "Yes",
+    "runes": [
+      "Tal",
+      "Ort",
+      "Thul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Peace",
+    "level": "29",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Shael",
+      "Thul",
+      "Amn"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Plague",
+    "level": "67",
+    "item": "Claws/Daggers/Swords",
+    "ladder": "Yes",
+    "runes": [
+      "Cham",
+      "Shael",
+      "Um"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "level": "65",
+    "item": "Weapon/Shield",
+    "ladder": "Yes",
+    "runes": [
+      "Vex",
+      "Vex",
+      "Lo",
+      "Jah"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Pride",
+    "level": "67",
+    "item": "Polearm",
+    "ladder": "Yes",
+    "runes": [
+      "Cham",
+      "Sur",
+      "Io",
+      "Lo"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Principle",
+    "level": "53",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Ral",
+      "Gul",
+      "Eld"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Prudence",
+    "level": "49",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Mal",
+      "Tir"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Radiance",
+    "level": "27",
+    "item": "Helm",
+    "ladder": "No",
+    "runes": [
+      "Nef",
+      "Sol",
+      "Ith"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Rain",
+    "level": "49",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Ort",
+      "Mal",
+      "Ith"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Rhyme",
+    "level": "29",
+    "item": "Shield",
+    "ladder": "No",
+    "runes": [
+      "Shael",
+      "Eth"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Rift",
+    "level": "53",
+    "item": "Polearm/Scepter",
+    "ladder": "Yes",
+    "runes": [
+      "Helm",
+      "Ko",
+      "Lem",
+      "Gul"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Sanctuary",
+    "level": "49",
+    "item": "Shield",
+    "ladder": "No",
+    "runes": [
+      "Ko",
+      "Ko",
+      "Mal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Silence",
+    "level": "55",
+    "item": "Weapon",
+    "ladder": "No",
+    "runes": [
+      "Dol",
+      "Eld",
+      "Hel",
+      "Ist",
+      "Tir",
+      "Vex"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Smoke",
+    "level": "37",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Nef",
+      "Lum"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Spirit",
+    "level": "25",
+    "item": "Sword/Shield",
+    "ladder": "Yes",
+    "runes": [
+      "Tal",
+      "Thul",
+      "Ort",
+      "Amn"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Splendor",
+    "level": "37",
+    "item": "Shield",
+    "ladder": "No",
+    "runes": [
+      "Eth",
+      "Lum"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Stealth",
+    "level": "17",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Tal",
+      "Eth"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Steel",
+    "level": "13",
+    "item": "Axe/Mace/Sword",
+    "ladder": "No",
+    "runes": [
+      "Tir",
+      "El"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Stone",
+    "level": "47",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Shael",
+      "Um",
+      "Pul",
+      "Lum"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Strength",
+    "level": "25",
+    "item": "Melee",
+    "ladder": "No",
+    "runes": [
+      "Amn",
+      "Tir"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Temper",
+    "level": "35",
+    "item": "Helm",
+    "ladder": "Yes",
+    "runes": [
+      "Shael",
+      "Io",
+      "Ral"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Treachery",
+    "level": "43",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Shael",
+      "Thul",
+      "Lem"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Unbending Will",
+    "level": "41",
+    "item": "Sword",
+    "ladder": "Yes",
+    "runes": [
+      "Fal",
+      "Io",
+      "Ith",
+      "Eld",
+      "El",
+      "Hel"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Venom",
+    "level": "49",
+    "item": "Weapon",
+    "ladder": "No",
+    "runes": [
+      "Tal",
+      "Dol",
+      "Mal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Voice of Reason",
+    "level": "43",
+    "item": "Mace/Sword",
+    "ladder": "Yes",
+    "runes": [
+      "Lem",
+      "Ko",
+      "El",
+      "Eld"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Wealth",
+    "level": "43",
+    "item": "Armor",
+    "ladder": "No",
+    "runes": [
+      "Lem",
+      "Ko",
+      "Tir"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "White",
+    "level": "35",
+    "item": "Wand",
+    "ladder": "No",
+    "runes": [
+      "Dol",
+      "Io"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Wind",
+    "level": "61",
+    "item": "Melee",
+    "ladder": "No",
+    "runes": [
+      "Sur",
+      "El"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Wrath",
+    "level": "63",
+    "item": "Missile",
+    "ladder": "Yes",
+    "runes": [
+      "Pul",
+      "Lum",
+      "Ber",
+      "Mal"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Zephyr",
+    "level": "21",
+    "item": "Missile",
+    "ladder": "No",
+    "runes": [
+      "Ort",
+      "Eth"
+    ],
+    "properties": [
+      ""
+    ]
+  },
+  {
+    "name": "Wisdom",
+    "level": "45",
+    "item": "Helm",
+    "ladder": "Yes",
+    "runes": [
+      "Pul",
+      "Ith",
+      "Eld"
+    ],
+    "properties": [
+      ""
+    ]
+  }
+]

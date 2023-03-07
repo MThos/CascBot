@@ -1,0 +1,1269 @@
+[
+  {
+    "name": "Abaddon",
+    "entered": "Frigid Highlands",
+    "leads": [
+      "None"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "39",
+      "nightmare": "60",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Ancient Tunnels",
+    "entered": "Lost City",
+    "leads": [
+      "None"
+    ],
+    "act": "2",
+    "waypoint": "No",
+    "level": {
+      "normal": "17",
+      "nightmare": "46",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Arachnid Lair",
+    "entered": "Spider Forest",
+    "leads": [
+      "None"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "21",
+      "nightmare": "50",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Arcane Sanctuary",
+    "entered": "Palace Cellar Level 3",
+    "leads": [
+      "Canyon of the Magi"
+    ],
+    "act": "2",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "14",
+      "nightmare": "48",
+      "hell": "79"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Arreat Summit",
+    "entered": "The Ancients Way",
+    "leads": [
+      "Worldstone Keep Level 1"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "37",
+      "nightmare": "68",
+      "hell": "87"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Arreat Plateau",
+    "entered": "Frigid Highlands",
+    "leads": [
+      "Pit of Archeron",
+      "Crystalline Passage"
+    ],
+    "act": "5",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "26",
+      "nightmare": "60",
+      "hell": "81"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Barracks",
+    "entered": "Outer Cloister",
+    "leads": [
+      "Jail Level 1"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "9",
+      "nightmare": "40",
+      "hell": "70"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Black Marsh",
+    "entered": "Dark Wood",
+    "leads": [
+      "Hole Level 1",
+      "Tower Cellar Level 1",
+      "Tamoe Highlands"
+    ],
+    "act": "1",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "6",
+      "nightmare": "38",
+      "hell": "69"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Blood Moor",
+    "entered": "Rogue Encampment",
+    "leads": [
+      "Den of Evil",
+      "Cold Plains"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "1",
+      "nightmare": "36",
+      "hell": "67"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Bloody Foothills",
+    "entered": "Harrogath",
+    "leads": [
+      "Frigid Highlands"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "24",
+      "nightmare": "58",
+      "hell": "80"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Burial Grounds",
+    "entered": "Cold Plains",
+    "leads": [
+      "Crypt",
+      "Mausoleum"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "3",
+      "nightmare": "36",
+      "hell": "80"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Canyon of the Magi",
+    "entered": "Arcane Sanctuary",
+    "leads": [
+      "Tal Rashas Tomb"
+    ],
+    "act": "2",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "16",
+      "nightmare": "48",
+      "hell": "79"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Catacombs Level 1",
+    "entered": "Cathedral",
+    "leads": [
+      "Catacombs Level 2"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "11",
+      "nightmare": "42",
+      "hell": "72"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Catacombs Level 2",
+    "entered": "Catacombs Level 1",
+    "leads": [
+      "Catacombs Level 3"
+    ],
+    "act": "1",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "11",
+      "nightmare": "42",
+      "hell": "73"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Catacombs Level 3",
+    "entered": "Catacombs Level 2",
+    "leads": [
+      "Catacombs Level 4"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "12",
+      "nightmare": "43",
+      "hell": "73"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Catacombs Level 4",
+    "entered": "Catacombs Level 3",
+    "leads": [
+      "None"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "12",
+      "nightmare": "43",
+      "hell": "73"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Cathedral",
+    "entered": "Inner Cloister",
+    "leads": [
+      "Catacombs Level 1"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "11",
+      "nightmare": "42",
+      "hell": "72"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Cave Level 1",
+    "entered": "Cold Plains",
+    "leads": [
+      "Cave Level 2"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "2",
+      "nightmare": "36",
+      "hell": "77"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Cave Level 2",
+    "entered": "Cave Level 1",
+    "leads": [
+      "None"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "2",
+      "nightmare": "37",
+      "hell": "78"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Chaos Sanctuary",
+    "entered": "River of Flame",
+    "leads": [
+      "None"
+    ],
+    "act": "4",
+    "waypoint": "No",
+    "level": {
+      "normal": "28",
+      "nightmare": "58",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "City of the Damned",
+    "entered": "Plains of Despair",
+    "leads": [
+      "River of Flame"
+    ],
+    "act": "4",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "27",
+      "nightmare": "57",
+      "hell": "84"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Claw Viper Temple Level 1",
+    "entered": "Valley of Snakes",
+    "leads": [
+      "Claw Viper Temple Level 2"
+    ],
+    "act": "2",
+    "waypoint": "No",
+    "level": {
+      "normal": "14",
+      "nightmare": "47",
+      "hell": "82"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Claw Viper Temple Level 2",
+    "entered": "Claw Viper Temple Level 1",
+    "leads": [
+      "None"
+    ],
+    "act": "2",
+    "waypoint": "No",
+    "level": {
+      "normal": "14",
+      "nightmare": "47",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Cold Plains",
+    "entered": "Blood Moor",
+    "leads": [
+      "Burial Grounds",
+      "Stony Field"
+    ],
+    "act": "1",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "2",
+      "nightmare": "36",
+      "hell": "68"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Crystalline Passage",
+    "entered": "Arreat Plateau",
+    "leads": [
+      "Frozen River",
+      "Glacial Trail"
+    ],
+    "act": "5",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "29",
+      "nightmare": "61",
+      "hell": "82"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Crypt",
+    "entered": "Burial Grounds",
+    "leads": [
+      "None"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "3",
+      "nightmare": "37",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Den of Evil",
+    "entered": "Blood Moor",
+    "leads": [
+      "None"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "1",
+      "nightmare": "36",
+      "hell": "79"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Dark Wood",
+    "entered": "Underground Passage Level 1",
+    "leads": [
+      "Black Marsh"
+    ],
+    "act": "1",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "5",
+      "nightmare": "38",
+      "hell": "68"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Disused Fane",
+    "entered": "Kurast Bazaar",
+    "leads": [
+      "None"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "23",
+      "nightmare": "53",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Disused Reliquary",
+    "entered": "Kurast Causeway",
+    "leads": [
+      "None"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "24",
+      "nightmare": "54",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Drifter Cavern",
+    "entered": "Glacial Trail",
+    "leads": [
+      "None"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "29",
+      "nightmare": "61",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Dry Hills",
+    "entered": "Rocky Waste",
+    "leads": [
+      "Halls of the Dead Level 1",
+      "Far Oasis"
+    ],
+    "act": "2",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "15",
+      "nightmare": "44",
+      "hell": "76"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Durance of Hate Level 1",
+    "entered": "Travincal",
+    "leads": [
+      "Durance of Hate Level 2"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "25",
+      "nightmare": "55",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Durance of Hate Level 2",
+    "entered": "Durance of Hate Level 1",
+    "leads": [
+      "Durance of Hate Level 3"
+    ],
+    "act": "3",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "25",
+      "nightmare": "55",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Durance of Hate Level 3",
+    "entered": "Durance of Hate Level 2",
+    "leads": [
+      "None"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "25",
+      "nightmare": "55",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Far Oasis",
+    "entered": "Dry Hills",
+    "leads": [
+      "Maggot Lair Level 1",
+      "Lost City"
+    ],
+    "act": "2",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "16",
+      "nightmare": "45",
+      "hell": "76"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Flayer Dungeon Level 1",
+    "entered": "Flayer Jungle",
+    "leads": [
+      "Flayer Dungeon Level 2"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "22",
+      "nightmare": "51",
+      "hell": "81"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Flayer Dungeon Level 2",
+    "entered": "Flayer Dungeon Level 1",
+    "leads": [
+      "Flayer Dungeon Level 3"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "22",
+      "nightmare": "51",
+      "hell": "82"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Flayer Dungeon Level 3",
+    "entered": "Flayer Dungeon Level 2",
+    "leads": [
+      "None"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "22",
+      "nightmare": "51",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Flayer Jungle",
+    "entered": "Great Marsh",
+    "leads": [
+      "Swampy Pit Level 1",
+      "Lower Kurast"
+    ],
+    "act": "3",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "22",
+      "nightmare": "50",
+      "hell": "80"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Forgotten Reliquary",
+    "entered": "Upper Kurast",
+    "leads": [
+      "None"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "23",
+      "nightmare": "53",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Forgotten Sands",
+    "entered": "Harrogath",
+    "leads": [
+      "None"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "50",
+      "nightmare": "75",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Forgotten Temple",
+    "entered": "Upper Kurast",
+    "leads": [
+      "None"
+    ],
+    "act": "3",
+    "waypoint": "No",
+    "level": {
+      "normal": "24",
+      "nightmare": "54",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Frozen River",
+    "entered": "Crystalline Passage",
+    "leads": [
+      "None"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "29",
+      "nightmare": "61",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Frigid Highlands",
+    "entered": "Bloody Foothills",
+    "leads": [
+      "Abaddon",
+      "Arreat Plateau"
+    ],
+    "act": "5",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "25",
+      "nightmare": "59",
+      "hell": "81"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Frozen Tundra",
+    "entered": "Glacial Trail",
+    "leads": [
+      "Infernal Pit",
+      "The Ancients Way"
+    ],
+    "act": "5",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "27",
+      "nightmare": "60",
+      "hell": "81"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Furnace of Pain",
+    "entered": "Harrogath",
+    "leads": [
+      "None"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "50",
+      "nightmare": "75",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Glacial Trail",
+    "entered": "Crystalline Passage",
+    "leads": [
+      "Drifter Cavern",
+      "Frozen Tundra"
+    ],
+    "act": "5",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "29",
+      "nightmare": "61",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Great Marsh",
+    "entered": "Spider Forest",
+    "leads": [
+      "Flayer Jungle"
+    ],
+    "act": "3",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "21",
+      "nightmare": "50",
+      "hell": "80"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Halls of Anguish",
+    "entered": "Nihlathaks Temple",
+    "leads": [
+      "Hall of Pain"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "33",
+      "nightmare": "63",
+      "hell": "83"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Halls of Pain",
+    "entered": "Halls of Anguish",
+    "leads": [
+      "Halls of Vaught"
+    ],
+    "act": "5",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "34",
+      "nightmare": "64",
+      "hell": "84"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Halls of Vaught",
+    "entered": "Halls of Pain",
+    "leads": [
+      "None"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "36",
+      "nightmare": "64",
+      "hell": "84"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Halls of the Dead Level 1",
+    "entered": "Dry Hills",
+    "leads": [
+      "Halls of the Dead Level 2"
+    ],
+    "act": "2",
+    "waypoint": "No",
+    "level": {
+      "normal": "12",
+      "nightmare": "44",
+      "hell": "79"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Halls of the Dead Level 2",
+    "entered": "Halls of the Dead Level 1",
+    "leads": [
+      "Halls of the Dead Level 3"
+    ],
+    "act": "2",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "13",
+      "nightmare": "45",
+      "hell": "81"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Halls of the Dead Level 3",
+    "entered": "Halls of the Dead Level 2",
+    "leads": [
+      "None"
+    ],
+    "act": "2",
+    "waypoint": "No",
+    "level": {
+      "normal": "13",
+      "nightmare": "45",
+      "hell": "82"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Harem Level 1",
+    "entered": "Lut Gholein",
+    "leads": [
+      "Harem Level 2"
+    ],
+    "act": "2",
+    "waypoint": "No",
+    "level": {
+      "normal": "0",
+      "nightmare": "0",
+      "hell": "0"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Harem Level 2",
+    "entered": "Harem Level 1",
+    "leads": [
+      "Palace Cellar Level 1"
+    ],
+    "act": "2",
+    "waypoint": "No",
+    "level": {
+      "normal": "13",
+      "nightmare": "47",
+      "hell": "78"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Harrogath",
+    "entered": "None",
+    "leads": [
+      "Bloody Foothills"
+    ],
+    "act": "5",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "0",
+      "nightmare": "0",
+      "hell": "0"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Hole Level 1",
+    "entered": "Black Marsh",
+    "leads": [
+      "Hole Level 2"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "5",
+      "nightmare": "38",
+      "hell": "80"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Hole Level 2",
+    "entered": "Hole Level 1",
+    "leads": [
+      "None"
+    ],
+    "act": "1",
+    "waypoint": "No",
+    "level": {
+      "normal": "5",
+      "nightmare": "39",
+      "hell": "81"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Inner Cloister",
+    "entered": "Jail Level 3",
+    "leads": [
+      "Cathedral"
+    ],
+    "act": "1",
+    "waypoint": "Yes",
+    "level": {
+      "normal": "10",
+      "nightmare": "41",
+      "hell": "72"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Icy Cellar",
+    "entered": "The Ancients Way",
+    "leads": [
+      "None"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "29",
+      "nightmare": "62",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "Infernal Pit",
+    "entered": "Frozen Tundra",
+    "leads": [
+      "None"
+    ],
+    "act": "5",
+    "waypoint": "No",
+    "level": {
+      "normal": "39",
+      "nightmare": "62",
+      "hell": "85"
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "",
+    "entered": "",
+    "leads": [
+      ""
+    ],
+    "act": "",
+    "waypoint": "",
+    "level": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "",
+    "entered": "",
+    "leads": [
+      ""
+    ],
+    "act": "",
+    "waypoint": "",
+    "level": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  },
+  {
+    "name": "",
+    "entered": "",
+    "leads": [
+      ""
+    ],
+    "act": "",
+    "waypoint": "",
+    "level": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    },
+    "elites": {
+      "normal": "",
+      "nightmare": "",
+      "hell": ""
+    }
+  }
+]
